@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMark", "BenchMark\BenchMark.csproj", "{C40E26F0-7A74-484F-95B3-5C06C50B6CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalNet", "DalNet\DalNet.csproj", "{A7F22748-2DEC-45AF-AE75-1EB1CC8AA430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DalCore", "DalCore\DalCore.csproj", "{3F35CF0E-4755-4469-BA44-2E129C81F096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C40E26F0-7A74-484F-95B3-5C06C50B6CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40E26F0-7A74-484F-95B3-5C06C50B6CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40E26F0-7A74-484F-95B3-5C06C50B6CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40E26F0-7A74-484F-95B3-5C06C50B6CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F22748-2DEC-45AF-AE75-1EB1CC8AA430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F22748-2DEC-45AF-AE75-1EB1CC8AA430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F22748-2DEC-45AF-AE75-1EB1CC8AA430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F22748-2DEC-45AF-AE75-1EB1CC8AA430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F35CF0E-4755-4469-BA44-2E129C81F096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F35CF0E-4755-4469-BA44-2E129C81F096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F35CF0E-4755-4469-BA44-2E129C81F096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F35CF0E-4755-4469-BA44-2E129C81F096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A224FAB3-730B-429D-849F-904C50CF8BA0}
+	EndGlobalSection
+EndGlobal
